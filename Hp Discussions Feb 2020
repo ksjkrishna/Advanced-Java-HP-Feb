@@ -1,0 +1,45 @@
+				Excercise 1 - with out Generics
+
+1. create a Test class
+
+2. Create a List with an implementation of ArrayList
+
+3. add values to List with integers /strings/double ( muliple data type )
+
+4. repeat the list and display the values
+
+
+
+Java Generics are a language feature that allows for definition and use of generic types and methods
+
+generics force type safety in java language
+
+Generics add stability to your code by making more of your bugs detectable at compile time.”
+
+		Excercise 2 - With Employee Class as generics
+
+
+1. Create an Employee class with id, name and salary properties with setter and getter methods..
+Note: provide default contructor and parameterized constructor
+overide toString method
+
+
+2. create EmployeeService class with fetchEmployees methods
+
+	public List<Employee> fetchEmployee(){
+	
+		//1. create List which accepts only  Employee object
+		
+		2. create 3-4 Employee objects and add to List
+		
+		3. return the List
+		
+	
+	}
+
+
+3. Create EmployeeTest classwith main methods
+
+	Fetch the Employee list and display the Employee object 
+
+	
